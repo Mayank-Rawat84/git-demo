@@ -8,5 +8,15 @@
         "id": 2,
         "name": "Arnav",
         "age": 35
+    },
+    {
+        "id": 3,
+        "name": "Rekha",
+        "age": 25
+    },
+    {
+        "id": 4,
+        "name": "Shruti",
+        "age": 30
     }
 ]
