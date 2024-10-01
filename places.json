@@ -1,10 +1,12 @@
 {
-    "id": 1,
     "name": "Bangalore",
     "state": "Karnataka" 
 },
 {
-    "id": 2,
     "name": "Dehradun",
     "state": "Uttarakhand" 
+},
+{
+    "name": "Mumbai",
+    "state": "Maharashtra" 
 }
