@@ -7,4 +7,9 @@
     "id": 2,
     "name": "Dehradun",
     "state": "Uttarakhand" 
+},
+{
+    "id": 3,
+    "name": "Kerala",
+    "state": "Kerala" 
 }
