@@ -3,3 +3,6 @@ This is a new file created for checking the Git workflow.
 
 #ADD NEW
 New details added
+
+#MORE DETAILS
+Adding more details
