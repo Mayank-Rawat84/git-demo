@@ -6,3 +6,7 @@ This is a new file created for checking the Git workflow.
 Here are the files in the website.
 
 index.html
+
+
+NEW CHANGES
+These are the new changes that are to be staged.
