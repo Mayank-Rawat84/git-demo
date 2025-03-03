@@ -1,10 +1,8 @@
 #GIT REPOSITORY
 This is a new file created for checking the Git workflow.
 
-#ADD NEW
-New details added
+#WEBSITE CONTENTS
 
-#MORE DETAILS
-Adding more details
+Here are the files in the website.
 
 index.html
